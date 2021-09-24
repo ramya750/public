@@ -1,0 +1,6 @@
+#!/bin/bash
+##this is the sample shell script
+
+mkdir /createdbyscript
+touch /createdbyscript/textfile.txt
+echo "testing script file">> /createdbyscript/textfile.txt
